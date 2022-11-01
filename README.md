@@ -14,3 +14,5 @@ Para acceder como administrador solo debe añadir /admin a su enlace principal y
 Usuario administrador: admin
 Contraseña: platea21
 🔥🧔
+
+https://platea21.blogspot.com/
