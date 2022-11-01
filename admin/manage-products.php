@@ -59,7 +59,7 @@ if(isset($_GET['del']))
 									<thead>
 										<tr>
 											<th>#</th>
-											<th>Producto</th>
+											<th class="table-primary">Producto</th>
 											<th>Categoria </th>
 											<th>Subcategoria</th>
 											<th>Marca</th>

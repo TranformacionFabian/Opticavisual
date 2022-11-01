@@ -109,10 +109,10 @@ if(isset($_GET['del']))
 								<table cellpadding="0" cellspacing="0" border="0" class="datatable-1 table table-bordered table-striped	 display" width="100%">
 									<thead>
 										<tr>
-											<th>#</th>
-											<th>Categoria</th>
-											<th>Descripción</th>
-											<th>Fecha de creación</th>
+											<th class="table-primary">#</th>
+											<th class="table-success">Categoria</th>
+											<th class="table-warning">Descripción</th>
+											<th class="table-info">Fecha de creación</th>
 											<th>Última actualización</th>
 											<th>Acción</th>
 										</tr>
